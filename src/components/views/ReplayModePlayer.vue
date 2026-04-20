@@ -16731,7 +16731,7 @@ function startGuide() {
 
 /* ========== m (m) 专用样式 ========== */
 
-/* 水无月主题面板 */
+/* 主题面板 */
 .commentator-m {
   border: 1px solid #f5adc1;
   box-shadow: 0 4px 20px rgba(245, 173, 193, 0.2);
@@ -16741,7 +16741,7 @@ function startGuide() {
   background: linear-gradient(90deg, #f5adc1 0%, #f8c4d6 50%, #f299b8 100%) !important;
 }
 
-/* 水无月角色专用条目样式 */
+/* 角色专用条目样式 */
 .commentary-entry.character-m {
   border-left-color: #f5adc1;
   background: linear-gradient(90deg, rgba(245, 173, 193, 0.12) 0%, transparent 100%);
@@ -16763,7 +16763,7 @@ function startGuide() {
   }
 }
 
-/* 水无月特殊召唤特效 - 游戏感 */
+/* 特殊召唤特效 - 游戏感 */
 .commentary-entry.character-m.commentary-spsummon {
   background: linear-gradient(
     90deg,
@@ -16786,19 +16786,19 @@ function startGuide() {
   }
 }
 
-/* 水无月效果发动 - 吐槽风格 */
+/* 效果发动 - 吐槽风格 */
 .commentary-entry.character-m.commentary-chain {
   background: linear-gradient(90deg, rgba(245, 173, 193, 0.18) 0%, rgba(255, 193, 7, 0.1) 100%);
   border-left-color: #ffc107;
 }
 
-/* 水无月攻击特效 */
+/* 攻击特效 */
 .commentary-entry.character-m.commentary-attack {
   background: linear-gradient(90deg, rgba(244, 67, 54, 0.15) 0%, rgba(245, 173, 193, 0.1) 100%);
   border-left-color: #f44336;
 }
 
-/* 水无月回合开始特效 */
+/* 回合开始特效 */
 .commentary-entry.character-m.commentary-new_turn {
   background: linear-gradient(90deg, rgba(245, 173, 193, 0.25) 0%, rgba(103, 58, 183, 0.15) 100%);
   border-left-color: #f5adc1;
@@ -16815,7 +16815,7 @@ function startGuide() {
   opacity: 0.6;
 }
 
-/* 水无月伤害特效 - 略带搞笑 */
+/* 伤害特效 - 略带搞笑 */
 .commentary-entry.character-m.commentary-damage {
   background: linear-gradient(90deg, rgba(244, 67, 54, 0.2) 0%, rgba(255, 152, 0, 0.15) 100%);
   border-left-color: #ff5722;
@@ -16835,7 +16835,7 @@ function startGuide() {
   }
 }
 
-/* 水无月胜利特效 */
+/* 胜利特效 */
 .commentary-entry.character-m.commentary-win {
   background: linear-gradient(
     90deg,
@@ -16861,7 +16861,7 @@ function startGuide() {
   }
 }
 
-/* 水无月抽卡特效 */
+/* 抽卡特效 */
 .commentary-entry.character-m.commentary-draw {
   background: linear-gradient(90deg, rgba(156, 39, 176, 0.15) 0%, rgba(245, 173, 193, 0.1) 100%);
   border-left-color: #9c27b0;
